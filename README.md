@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 **Hello**
 
