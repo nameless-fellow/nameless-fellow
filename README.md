@@ -1,9 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/Ri-Verma">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=490&lines=Hi+there%2C+Buddy+👋;Full-Stack+Developer;Web+Security+Enthusiast;Cyber+Security+Enthusiast;AI+%26+ML+Explorer" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nameless-fellow&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</div>
+<p align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=pie)  
+</p>
+### ***Just a random person driving through multiverse.***
+
+- 📫 How to reach me: name.gone36@gmail.com
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=pie)]
-
-**Hello**
+<!--
+GitHub Extra Pins
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nameless-fellow&repo=github-readme-stats)]
+-->
 
 
 
