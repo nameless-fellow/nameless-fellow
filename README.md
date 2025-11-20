@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
-</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=pie)]
 
 **Hello**
 
