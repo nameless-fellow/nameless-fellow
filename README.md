@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nameless-fellow&show_icons=true&theme=gruvbox"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=pie"/>
+  <img src="https://streak-stats.demolab.com/?user=nameless-fellow&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&layout=donut-vertical"/>
 </p>
 
 ### ***Just a random person driving through multiverse.***
