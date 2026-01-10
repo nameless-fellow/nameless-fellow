@@ -9,7 +9,10 @@
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nameless-fellow&theme=dark"/>
+  ![](https://github-readme-stats.vercel.app/api?username=nameless-fellow&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=nameless-fellow&theme=dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nameless-fellow&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 </p>
 
 ### ***Just a random person driving through multiverse.***
